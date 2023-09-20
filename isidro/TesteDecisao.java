@@ -1,3 +1,4 @@
+package isidro;
 import java.util.Scanner;
 
 public class TesteDecisao {
