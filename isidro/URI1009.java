@@ -2,7 +2,7 @@ package isidro;
 
 import java.util.Scanner;
 
-public class Exercicio1009 {
+public class URI1009 {
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
 

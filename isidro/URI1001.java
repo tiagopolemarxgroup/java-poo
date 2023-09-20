@@ -1,6 +1,7 @@
+package isidro;
 import java.util.Scanner;
 
-public class Exercicio1001 {
+public class URI1001 {
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
         int saqueinteiro, saqueDecimal;
